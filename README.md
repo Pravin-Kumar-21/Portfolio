@@ -1,1 +1,1 @@
-# This is a normal basic portfolio it will be upgraded.
+# This is a basic portfolio it will be upgraded.

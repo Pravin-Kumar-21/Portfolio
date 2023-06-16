@@ -17,3 +17,11 @@ h1{
 h3{
   color: #66bfbf;
 }
+.About{
+  height: fit-content;
+  width:fit-content;
+  background-color: rgba(25,26,200,0.4);
+}
+.div{
+  background-color:rgba(20, 45,300, 0.3);
+}
